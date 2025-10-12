@@ -6,24 +6,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Weihua Kuang, major in Software Engineering, College of Software, Nankai University.
+Incoming PhD in CASIA since 2026, supervised by Prof. [Guoqi Li](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7130910.html).
 
-## News
+Current undergraduate in Nankai University, supervised by Prof. [Yongqian Sun](https://cs.nankai.edu.cn/info/1121/2581.htm).
 
-⭐️2025/03/29: My paper *[A multimodel Intelligent Change Assessment Framework for Microservice Systems Based on Large Language Models](https://nkcs.iops.ai/wp-content/uploads/2025/03/ChangeLLM.pdf)* accepted by FSE2025 Industry (CCF-A), as Second student author, guided by [Yongqian Sun](https://nkcs.iops.ai/yongqiansun/) and [Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/) from [AIOps lab](https://nkcs.iops.ai/), College of Software, Nankai University.
+Interested in **Agent** (mainly Multi-Agents System) / Linear Model / Brain-Inspired Compute.
 
-## Recent work
+### Currently Working on :
 
-- Agent protocols: MCP, A2A
-- Agent strcuture: CrewAI, LangGraph
+- RL on Pre-Train
+- Brain-inspired Memory Mechanism in Agent
+- Muilti-Agents System ([MAS for SE](https://github.com/weihua-kuang/LangGraph-MAS4SE)) Workflow,
 
-## Research intersest
+  ensembling with Agent Protocals & Browser use.
+- AIOps research focusing on **Software Change** in Enterprise Scenario,
 
-- LLM, especially Multi-Agents System
-  - Project: Multi-Agents System for Software Enginnering([MAS4SE](https://github.com/waywooKwong/LangGraph-MAS4SE)), simulating the real pre-develop scene of generating a project plan briefly with multi-roles interactively commicate and collaborate. Using LangGraph, LangChain and build an interative WebUI like Coze.
-  - Now, working on refactor the multi-agents system by CrewAI, and perf the functions mainly on directly website opeartions by Browse use and unified tool calling by MCP(model context protocal).
+  one [paper](https://dl.acm.org/doi/10.1145/3696630.3728561) accepted by FSE 2025 Industry（CCF-A）.
 
-* AIOps (Artifical Intelligence for Operations)
-  * Work in Software Change project in AIOps Lab for more than one year (2024.03 -- now)
-  * Come out one CCF-A paper, maily focused on Software Change area. Propose a new unified workflow, called SCELM (named by me), to combined three traditional downstream works by LLM teachs, more sepcificly, RAG (Retriever-Augumented Generation), in which part i took the whole responsibilty for RAG function design, develop and experiment. Feel free to communicate with me if you are interested.
-  * Now, leading perf on SCELM by currently most popular RHLF method GRPO, KTO. Targeted journal TOSEM.
+### Recently Interested in :
+
+- Linear Model & Inference Efficiency
+- Multi-Agents Collaboration & Agent Protocals & Tool use

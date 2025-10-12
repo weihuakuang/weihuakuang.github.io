@@ -220,16 +220,16 @@ kramdown:
 collections:
   # 0922
   teaching:
-    output: false # origin: ture, 250922
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
