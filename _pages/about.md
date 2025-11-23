@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Incoming PhD in CASIA since 2026, supervised by Prof. [Guoqi Li](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7130910.html).
+Incoming PhD student in CASIA since 2026, supervised by Prof. [Guoqi Li](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7130910.html).
 
 Current undergraduate in Nankai University, supervised by Prof. [Yongqian Sun](https://cs.nankai.edu.cn/info/1121/2581.htm).
 
