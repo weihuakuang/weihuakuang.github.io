@@ -16,7 +16,7 @@ Interested in **Agent** (mainly Multi-Agents System) / Linear Model / Brain-Insp
 
 - RL on Pre-Train
 - Brain-inspired Memory Mechanism in Agent
-- Muilti-Agents System ([MAS for SE](https://github.com/weihua-kuang/LangGraph-MAS4SE)) Workflow,
+- Muilti-Agents System ([MAS for SE](https://github.com/weihuakuang/LangGraph-MAS4SE)) Workflow,
 
   ensembling with Agent Protocals & Browser use.
 - AIOps research focusing on **Software Change** in Enterprise Scenario,
