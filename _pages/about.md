@@ -12,6 +12,12 @@ B.S. from Nankai University, supervised by Prof. [Yongqian Sun](https://cs.nanka
 
 Interested in **Agent** (mainly Multi-Agents System) / Linear Model / Brain-Inspired Compute.
 
+### Awards / Honors :
+
+- Outstanding Undergraduate Thesis Award (校优秀本科毕业论文), 2026
+- National Scholarship (国家奖学金), 2025
+- University Scholarship (校奖学金), 2025
+
 ### Currently Working on :
 
 - RL on Pre-Train
