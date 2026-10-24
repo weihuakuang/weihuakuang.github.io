@@ -16,17 +16,6 @@ B.S. from Nankai University, supervised by Prof. [Yongqian Sun](https://cs.nanka
 - Linear Model & Inference Efficiency
 - Brain-Inspired Compute
 
-### Currently Working on :
-
-- RL on Pre-Train
-- Brain-inspired Memory Mechanism in Agent
-- Multi-Agents System ([MAS for SE](https://github.com/weihuakuang/LangGraph-MAS4SE)) Workflow,
-
-  ensembling with Agent Protocols & Browser use.
-- AIOps research focusing on **Software Change** in Enterprise Scenario,
-
-  one [paper](https://dl.acm.org/doi/10.1145/3696630.3728561) accepted by FSE 2025 Industry（CCF-A）.
-
 ### Awards / Honors :
 
 - Outstanding Undergraduate Thesis Award, 2026
